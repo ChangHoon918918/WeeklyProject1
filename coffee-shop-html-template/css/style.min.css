@@ -31,7 +31,7 @@
   --breakpoint-md: 768px;
   --breakpoint-lg: 992px;
   --breakpoint-xl: 1200px;
-  --font-family-sans-serif: "Montserrat", sans-serif;
+  --font-family-sans-serif: 'Noto Sans KR', sans-serif;
   --font-family-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace
 }
 
@@ -10733,18 +10733,6 @@ h6,
   left: 0;
   z-index: 1
 }
-
-/*
-.overlay-top::before {
-  top: -1px;
-  background: url(../img/overlay-top.png)
-}
-
-.overlay-bottom::after {
-  bottom: -1px;
-  background: url(../img/overlay-bottom.png)
-}
-*/
 
 .carousel-caption {
   top: 0;
