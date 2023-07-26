@@ -2704,7 +2704,7 @@ fieldset:disabled a.btn {
 }
 
 .btn-outline-secondary:focus, .btn-outline-secondary.focus {
-  box-shadow: 0 0 0 0.2rem rgba(51, 33, 29, 0.5);
+  box-shadow: 0 0 0 0.2rem rgba(01, 40, 99, 0.7);
 }
 
 .btn-outline-secondary.disabled, .btn-outline-secondary:disabled {
@@ -2721,7 +2721,7 @@ fieldset:disabled a.btn {
 
 .btn-outline-secondary:not(:disabled):not(.disabled):active:focus, .btn-outline-secondary:not(:disabled):not(.disabled).active:focus,
 .show > .btn-outline-secondary.dropdown-toggle:focus {
-  box-shadow: 0 0 0 0.2rem rgba(51, 33, 29, 0.5);
+  box-shadow: 0 0 0 0.2rem rgba(01, 40, 99, 0.7);
 }
 
 .btn-outline-success {
@@ -4696,7 +4696,7 @@ a.badge-secondary:hover, a.badge-secondary:focus {
 
 a.badge-secondary:focus, a.badge-secondary.focus {
   outline: 0;
-  box-shadow: 0 0 0 0.2rem rgba(51, 33, 29, 0.5);
+  box-shadow: 0 0 0 0.2rem rgba(01, 40, 99, 0.7);
 }
 
 .badge-success {
@@ -9565,7 +9565,7 @@ h6,
   left: 0;
   right: 0;
   bottom: 0;
-  background: rgba(51, 33, 29, 0.7);
+  background: rgba(01, 40, 99, 0.7);
   z-index: 1;
 }
 
@@ -9650,7 +9650,7 @@ h6,
 .page-header,
 .offer,
 .footer {
-  background: linear-gradient(rgba(51, 33, 29, 0.9), rgba(51, 33, 29, 0.9)), url(../img/bg.jpg);
+  background: linear-gradient(rgba(01, 40, 99, 0.7), rgba(01, 40, 99, 0.7), url(../img/bg.jpg);
   background-position: top;
   background-repeat: no-repeat;
   background-size: cover;
